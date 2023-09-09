@@ -732,10 +732,14 @@ main{
     display: none;
     opacity: 0%;
     transition: opacity var(--transition-time);
+    
+    display: none;
 }
 #main__div-cookies.ativo{
     display: flex;
     opacity: 100%;
+
+    display: none;
 }
 
 #main__div-cookies > div{
